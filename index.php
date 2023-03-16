@@ -1,6 +1,5 @@
 <?php
 
-
 echo "My first commit - change in feature to show conflict";
 echo "My second commit";
 echo "commit to show conflicts";
